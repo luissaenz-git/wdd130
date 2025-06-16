@@ -109,7 +109,9 @@ footer {
     margin: 0.5rem 0;
 }
 
-input#pet {
-    width: 20px;
-    height: 20px;
+input[type="checkbox"] {
+    /*width: 20px;*/
+    /*height: 20px;*/
+    transform: scale(1.5);
+    margin: 4px;
 }
